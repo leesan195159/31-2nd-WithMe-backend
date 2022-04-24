@@ -53,4 +53,4 @@ python, django, mysql, AWS, JWT, Bcrypt, s3, boto3
 <img width="1061" alt="스크린샷 2022-04-22 오후 2 55 01" src="https://user-images.githubusercontent.com/86543366/164612285-3e575c49-8750-4e38-bef1-41ea52ef5369.png">
 
 <h2>시연 영상</h2>
-링크: 
+링크: https://www.youtube.com/watch?v=wBV60K5xuwg
